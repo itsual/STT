@@ -1,5 +1,6 @@
 requests
-streamlitabsl-py==1.4.0
+streamlit
+absl-py
 aiohttp==3.8.4
 aiosignal==1.3.1
 alembic==1.9.4
